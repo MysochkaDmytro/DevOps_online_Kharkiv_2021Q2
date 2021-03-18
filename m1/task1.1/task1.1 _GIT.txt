@@ -1,0 +1,15 @@
+a345216 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+178db3c HEAD@{1}: checkout: moving from develop to master
+a345216 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): решили конфликт
+e5c6d97 (origin/images, images) HEAD@{3}: checkout: moving from images to develop
+e5c6d97 (origin/images, images) HEAD@{4}: checkout: moving from develop to images
+e5c6d97 (origin/images, images) HEAD@{5}: merge images: Fast-forward
+c5ebeb1 HEAD@{6}: checkout: moving from styles to develop
+c9e72d1 (origin/styles, styles) HEAD@{7}: commit: новые данные 1
+881b596 HEAD@{8}: commit: новые данные
+e6ba1d1 HEAD@{9}: commit: новые стили
+c5ebeb1 HEAD@{10}: checkout: moving from develop to styles
+c5ebeb1 HEAD@{11}: checkout: moving from images to develop
+e5c6d97 (origin/images, images) HEAD@{12}: pull: Fast-forward
+c6805ff HEAD@{13}: checkout: moving from master to images
+178db3c HEAD@{14}: clone: from https://github.com/MysochkaDmytro/DevOps_online_Kharkiv_2021Q2.git
